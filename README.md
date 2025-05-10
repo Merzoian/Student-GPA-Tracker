@@ -98,12 +98,12 @@ StudentGPA_Tracker/
 
 ## License
 
-This project is provided for educational use only and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is provided for educational use only.
 
 ---
 
 ## Author
 
-**Valentina [YourLastName]**  
+**Valentina**  
 Student, BYU–Idaho  
-GitHub: [your-github-username](https://github.com/Merzoian)
+GitHub: (https://github.com/Merzoian)
