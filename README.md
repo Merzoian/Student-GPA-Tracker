@@ -62,7 +62,7 @@ Each operation guides you through input fields using prompts.
 
 ## Video Demonstration
 
-🎥 [Click here to watch the video walkthrough and demo](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+🎥 [Click here to watch the video walkthrough and demo](https://youtu.be/9za78bYYU-Q)
 
 This video walks through:
 - How the software works
